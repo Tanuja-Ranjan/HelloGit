@@ -1,4 +1,4 @@
 # HelloGit
 This is my first Git repository
 <br>
-Author TR
+Author : Tanuja Ranjan(TR)
